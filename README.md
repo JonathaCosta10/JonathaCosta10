@@ -4,7 +4,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jonatha-costa-44729612b)
 [![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.organizesee.com.br)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contato@organizesee.com.br)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jonatha.costa@organizesee.com.br)
 
 ---
 
@@ -46,13 +46,33 @@ Minha jornada com **IA** avança em níveis:
 | [OrganizeseeBackEnd](https://github.com/JonathaCosta10/OrganizeseeBackEnd) | Backend principal da plataforma Organizesee | Python · Django |
 | [OrganizeseeServicos](https://github.com/JonathaCosta10/OrganizeseeServicos) | Microsserviços da Organizesee | Python |
 | [frontend](https://github.com/JonathaCosta10/frontend) | Frontend da Organizesee | TypeScript · React |
-| [API_CRUD_DJANGO](https://github.com/JonathaCosta10/API_CRUD_DJANGO) | API REST CRUD com Django | Python · Django |
+| [Valora](https://github.com/JonathaCosta10/IA_model) | Agente de IA pessoal com raciocínio autônomo, controle de desktop, voz natural, memória persistente e aprendizado contínuo | Python · LLM · LoRA |
+
+---
+
+## 🤖 Valora — Personal AI Agent
+
+> Agente de inteligência artificial pessoal com raciocínio autônomo, controle do desktop, voz natural, memória persistente e aprendizado contínuo. Projetado e desenvolvido como plataforma de produtividade pessoal e laboratório de IA aplicada.
+
+O **Valora** roda 100% local em Windows com GPU NVIDIA — sem dependências de APIs cloud, garantindo privacidade total dos dados. Combina múltiplos modelos de IA especializados com uma camada de orquestração inteligente.
+
+**Capacidades principais:**
+- 🎙️ **Conversa por voz** — Fala natural em português e inglês (Silero-VAD + Qwen3-TTS)
+- 🖥️ **Controle do computador** — Abre apps, digita, clica em elementos visuais, navega na web
+- 💻 **Geração de código** — Modelo LoRA fine-tuned (valora-coder-v2, Qwen2.5-Coder-7B)
+- 🧠 **Planejamento e raciocínio** — Cadeia de pensamento estruturada (valora-reasoner-v2, DeepSeek-R1-7B)
+- 🗃️ **Memória de longo prazo** — Grafo Mem0 com resolução de conflitos e busca semântica
+- ⚙️ **Auto-evolução** — Detecta falhas e gera dados de treino automaticamente
+- 🤝 **8 agentes especializados** — DevBackend, DevFrontend, DevInfra, Researcher, Writer, Reviewer, Financial, Ops
+- 📅 **Operações 24/7** — 72 scheduler agents (Heroku auto-fix, reconciliações, briefings, monitoramento)
+
+**Stack de produção:** Python 3.12 · Ollama · PostgreSQL + pgvector · Redis · React 19 · PySide6 · HuggingFace · Docker
 
 ---
 
 ## 📈 Streak de Contribuições
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JonathaCosta10&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JonathaCosta10&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
