@@ -10,7 +10,7 @@
 
 ## 🚀 Sobre mim
 
-Sou desenvolvedor **Full Stack + Full Cycle** apaixonado por tecnologia, automação e inteligência artificial. Atualmente trabalho na [Organizesee](https://www.organizesee.com.br), construindo soluções robustas do backend ao frontend.
+Sou desenvolvedor **Full Stack + Full Cycle** apaixonado por tecnologia, automação e inteligência artificial. Atualmente meu projeto principal é a [Organizesee](https://www.organizesee.com.br), construindo soluções robustas do backend ao frontend.
 
 Minha jornada com **IA** avança em níveis:
 - **N1** — Orquestração Produtiva
