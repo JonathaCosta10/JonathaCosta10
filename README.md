@@ -15,7 +15,7 @@ Sou desenvolvedor **Full Stack + Full Cycle** apaixonado por tecnologia, automa�
 Minha jornada com **IA** avança em níveis:
 - **N1** — Orquestração Produtiva
 - **N2** — Full Fine-tuning de modelos
-- **N3** — Chat com LLM Dedicado
+- **N3** — Valora como adminintrador do sistema
 
 ---
 
