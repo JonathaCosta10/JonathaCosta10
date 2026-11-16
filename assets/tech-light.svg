@@ -1,0 +1,151 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="542" viewBox="0 0 1000 542" role="img" aria-label="Tecnologias: Linguagens: Python, Java, TypeScript, JavaScript, SQL, HTML; Backend: Django, Django REST Framework, APIs REST, OAuth2, SSO, 2FA; Frontend: React, Dashboards, UI orientada a dados; Dados: PostgreSQL, MySQL, Oracle, BigQuery, Procedures, Índices, Pipelines; IA: LLMs, Agentes, RAG, Busca semântica, MCP, Plugins, LoRA, Claude, ChatGPT, Gemini, Devin; Cloud: Heroku, AWS, Azure, OpenShift, Docker, Linux, Volumes persistentes, Volumes efêmeros; Segurança: Roteamento de secrets, Rotas, Controle de acesso, LGPD; Automação: Control-M, GitHub Actions, Schedulers, Workers, Git; Pagamentos: Pix, Cartão, Ativos digitais, Mercado Pago; Ágil: Scrum, Kanban; Domínio: Mercado financeiro, B3, CVM, Renda fixa, Cripto"><style>@font-face{font-family:'OS Mono';font-weight:400;src:url(data:font/woff2;base64,d09GMgABAAAAAAUYABAAAAAACcgAAAS/AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGhwbIBwqBmA/U1RBVF4AbBEICodshj8BNgIkAzQLHAAEIAWEPgcgDAcb6QdRVFGOk3xRYDcWO+Rg5ZxjpSJCe/4No+GIKwLwijQoUFfOSvLlT7IDBNjaKf0B4hapKIFrKppUT5O6VCFm80ty/AR61gP68m6Yhr1EI/DcmYap1yljgafODYV6l5RtyBOaUAEHYA//eXtUJSZ2R0gG+1wnHBQi/p9jxouy4Z5Xiw0xIv8iaW9UZdE0jMLpgLLOG/zEhnd0YgfAd1rhVUCZa6ot9Pg0CIgBAINBRIhqBIQAT1Oao7Hjp86lEAdQdQkABHja0xHDzFe+ddXe7TSSCC47s1DHiMDkeSGAKfXdWs60RgIMFMmExcHJB8A7VtmZ8kpB5FBX7hcx7c1PoCURQpRggLpYoC3mwIaNewVsuqu2qgaiQGM6YwAjp2Og5QB9ACy2mlcIocaaG0IYvRXQqv7zjoUAtamJxbBKimqJZsW6nQImrtn+Dm1Xu9LlLnWxC50lMhCaQVvDQCQeaCwFaGhJuQjEWsSjwmBGeYTa0vrHOmubheaNfYvqvkb92tW71YlDlLjVSbR2Szwv/8oiBGXX52rqv+lPLH0YL98g1fzSkHy+Sc8q1vxVrqRPaJ6/8VMSpG8m2oTPIiJfIFYSVgvvEmW8K5knM2dIC3yHVFASS6w42gcFZ2gWyxmzuVcoWK/EBBJf0s5zqYdAiEp7x2yjWrvxbpgtTKf6PH9KMUP3sXk4P0PqUtb7+74eXGQub+UvNO9zI639vONFlscn+aLmIO+vwZu0BLa8rmyEUie1xT9v/fwQmRrldZcj3Cgo408FrLaU3/tsYeYDM4UGMS3Ub7v9sdWE5yigVfwVwsq8Hrp00/YnY1Mj45/BBJycmouim3gukpzCsW012097IcPwCpZuSYrMM5Dtodn+bRWMQPGZ2ajuJpyNxGdQx8IITPjmEFoUZ/+lk49c3HEO4D4EFUlECmrLA/uQvB5WB/VZqepywaHI3sRadCeaWPXK+hOE8iotyJmp19Xby+gUSZMq9AwryVCDTwJe8vbgM5L78Q0B+5OGvgFl4k/0wTW6bl/nawLC/VSr6UU2veJOqIEtmuH/zjNQhlEwEo5NzUbRVTwbcTTYpIuga2g2moMcPELwKjTdPIcNkf6/geYY0l1hoWE0OjzH9fZ8/2QqcZbZjXpzxBntd8RMD2nw/1D/zJf+7vNHppJAmdNitMZ9SZAx2C2KfI/cu0fvXZCLMTrhJgEj73K1tZOuLtLe5sIiuz0FoEBcAwcwDzBdbBEBpr+rNfdTWFFj6P8Sa/8B/Pp45wLA35bjd9JeZeWJUCgBQPCvMZmFBL7ycA9Epk6UamqoUYnxNgbaiHZMGEG/0gLwGwEJ3bDUx8wrQ9cCORa5IvAKDIpoyiuKoTrfKZah/KE4uqo1JaKxppMLdNZGDkGsEw1uLrNqqDBXnlcTrweMsW7DoS2aJRk7OulNzxJaMhciVPXkGHZgkjFBs2abcZp1a9Zhpq04doUqNQeMsqvHMtZt0dqOc8OODbCCowc92EBDPXhX0jhrrFs1gVBZrJTufGhjQKim4K4VCVumGXvTi14MGRTj524xNr5yo1Wn6/FRj63VmIZO6VpJIvyK5wCTHaxeMQVTiHWrEg/LAYAqlWlAZInPUtW+Oww=) format('woff2')}@font-face{font-family:'OS Mono';font-weight:500;src:url(data:font/woff2;base64,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) format('woff2')}@font-face{font-family:'OS Sans';font-weight:700;src:url(data:font/woff2;base64,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) format('woff2')}.m400{font-family:'OS Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:400}.m500{font-family:'OS Mono','JetBrains Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-weight:500}.s700{font-family:'OS Sans',Montserrat,'Segoe UI',-apple-system,Helvetica,Arial,sans-serif;font-weight:700}</style>
+<defs><linearGradient id="pg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff1de"/><stop offset=".55" stop-color="#ffffff"/><stop offset="1" stop-color="#ffffff"/></linearGradient><pattern id="dots" width="16" height="16" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#14336c" opacity="0.07"/></pattern><clipPath id="cp"><rect x=".5" y=".5" width="999" height="541" rx="14"/></clipPath></defs><g clip-path="url(#cp)"><rect width="1000" height="542" fill="url(#pg)"/><rect width="1000" height="542" fill="url(#dots)"/></g><rect x=".5" y=".5" width="999" height="541" rx="14" fill="none" stroke="#dfe3e8"/>
+<g clip-path="url(#cp)"><rect width="1000" height="42" fill="#f6f8fa" opacity=".85"/></g><rect x="0" y="42" width="1000" height="1" fill="#dfe3e8"/>
+<circle cx="24" cy="21" r="6" fill="#ff5f57"/>
+<circle cx="44" cy="21" r="6" fill="#febc2e"/>
+<circle cx="64" cy="21" r="6" fill="#28c840"/>
+<text x="500.0" y="26.0" class="m400" font-size="13" fill="#6b7280" text-anchor="middle">tecnologias</text>
+<text x="40.0" y="85.0" class="s700" font-size="14" fill="#282c34">Linguagens</text>
+<rect x="176.0" y="68" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="207.6" y="85.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Python</text>
+<rect x="246.2" y="68" width="48.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="270.6" y="85.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Java</text>
+<rect x="302.0" y="68" width="92.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="348.0" y="85.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">TypeScript</text>
+<rect x="401.0" y="68" width="92.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="447.0" y="85.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">JavaScript</text>
+<rect x="500.0" y="68" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="520.8" y="85.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">SQL</text>
+<rect x="548.6" y="68" width="48.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="573.0" y="85.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">HTML</text>
+<rect x="36" y="101" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="127.0" class="s700" font-size="14" fill="#282c34">Backend</text>
+<rect x="176.0" y="110" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="207.6" y="127.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Django</text>
+<rect x="246.2" y="110" width="171.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="331.8" y="127.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Django REST Framework</text>
+<rect x="424.4" y="110" width="84.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="466.8" y="127.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">APIs REST</text>
+<rect x="516.2" y="110" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="547.8" y="127.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">OAuth2</text>
+<rect x="586.4" y="110" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="607.2" y="127.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">SSO</text>
+<rect x="635.0" y="110" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="655.8" y="127.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">2FA</text>
+<rect x="36" y="143" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="169.0" class="s700" font-size="14" fill="#282c34">Frontend</text>
+<rect x="176.0" y="152" width="56.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="204.0" y="169.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">React</text>
+<rect x="239.0" y="152" width="92.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="285.0" y="169.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Dashboards</text>
+<rect x="338.0" y="152" width="164.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="420.0" y="169.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">UI orientada a dados</text>
+<rect x="36" y="185" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="211.0" class="s700" font-size="14" fill="#282c34">Dados</text>
+<rect x="176.0" y="194" width="92.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="222.0" y="211.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">PostgreSQL</text>
+<rect x="275.0" y="194" width="56.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="303.0" y="211.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">MySQL</text>
+<rect x="338.0" y="194" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="369.6" y="211.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Oracle</text>
+<rect x="408.2" y="194" width="77.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="447.0" y="211.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">BigQuery</text>
+<rect x="492.8" y="194" width="92.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="538.8" y="211.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Procedures</text>
+<rect x="591.8" y="194" width="70.4" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="627.0" y="211.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Índices</text>
+<rect x="669.2" y="194" width="84.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="711.6" y="211.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Pipelines</text>
+<rect x="36" y="227" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="253.0" class="s700" font-size="14" fill="#282c34">IA</text>
+<rect x="176.0" y="236" width="48.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="200.4" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">LLMs</text>
+<rect x="231.8" y="236" width="70.4" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="267.0" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Agentes</text>
+<rect x="309.2" y="236" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="330.0" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">RAG</text>
+<rect x="357.8" y="236" width="128.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="421.8" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Busca semântica</text>
+<rect x="492.8" y="236" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="513.6" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">MCP</text>
+<rect x="541.4" y="236" width="70.4" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="576.6" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Plugins</text>
+<rect x="618.8" y="236" width="48.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="643.2" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">LoRA</text>
+<rect x="674.6" y="236" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="706.2" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Claude</text>
+<rect x="744.8" y="236" width="70.4" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="780.0" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">ChatGPT</text>
+<rect x="822.2" y="236" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="853.8" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Gemini</text>
+<rect x="892.4" y="236" width="56.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="920.4" y="253.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Devin</text>
+<rect x="36" y="269" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="295.0" class="s700" font-size="14" fill="#282c34">Cloud</text>
+<rect x="176.0" y="278" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="207.6" y="295.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Heroku</text>
+<rect x="246.2" y="278" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="267.0" y="295.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">AWS</text>
+<rect x="294.8" y="278" width="56.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="322.8" y="295.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Azure</text>
+<rect x="357.8" y="278" width="84.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="400.2" y="295.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">OpenShift</text>
+<rect x="449.6" y="278" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="481.2" y="295.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Docker</text>
+<rect x="519.8" y="278" width="56.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="547.8" y="295.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Linux</text>
+<rect x="582.8" y="278" width="164.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="664.8" y="295.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Volumes persistentes</text>
+<rect x="753.8" y="278" width="135.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="821.4" y="295.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Volumes efêmeros</text>
+<rect x="36" y="311" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="337.0" class="s700" font-size="14" fill="#282c34">Segurança</text>
+<rect x="176.0" y="320" width="171.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="261.6" y="337.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Roteamento de secrets</text>
+<rect x="354.2" y="320" width="56.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="382.2" y="337.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Rotas</text>
+<rect x="417.2" y="320" width="149.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="492.0" y="337.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Controle de acesso</text>
+<rect x="573.8" y="320" width="48.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="598.2" y="337.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">LGPD</text>
+<rect x="36" y="353" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="379.0" class="s700" font-size="14" fill="#282c34">Automação</text>
+<rect x="176.0" y="362" width="84.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="218.4" y="379.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Control-M</text>
+<rect x="267.8" y="362" width="120.8" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="328.2" y="379.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">GitHub Actions</text>
+<rect x="395.6" y="362" width="92.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="441.6" y="379.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Schedulers</text>
+<rect x="494.6" y="362" width="70.4" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="529.8" y="379.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Workers</text>
+<rect x="572.0" y="362" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="592.8" y="379.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Git</text>
+<rect x="36" y="395" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="421.0" class="s700" font-size="14" fill="#282c34">Pagamentos</text>
+<rect x="176.0" y="404" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="196.8" y="421.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Pix</text>
+<rect x="224.6" y="404" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="256.2" y="421.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Cartão</text>
+<rect x="294.8" y="404" width="128.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="358.8" y="421.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Ativos digitais</text>
+<rect x="429.8" y="404" width="106.4" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="483.0" y="421.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Mercado Pago</text>
+<rect x="36" y="437" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="463.0" class="s700" font-size="14" fill="#282c34">Ágil</text>
+<rect x="176.0" y="446" width="56.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="204.0" y="463.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Scrum</text>
+<rect x="239.0" y="446" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="270.6" y="463.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Kanban</text>
+<rect x="36" y="479" width="928" height="1" fill="#dfe3e8" opacity=".7"/>
+<text x="40.0" y="505.0" class="s700" font-size="14" fill="#282c34">Domínio</text>
+<rect x="176.0" y="488" width="149.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="250.8" y="505.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Mercado financeiro</text>
+<rect x="332.6" y="488" width="34.4" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="349.8" y="505.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">B3</text>
+<rect x="374.0" y="488" width="41.6" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="394.8" y="505.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">CVM</text>
+<rect x="422.6" y="488" width="92.0" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="468.6" y="505.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Renda fixa</text>
+<rect x="521.6" y="488" width="63.2" height="25" rx="6" fill="#ffffff" stroke="#dfe3e8"/>
+<text x="553.2" y="505.0" class="m500" font-size="12" fill="#282c34" text-anchor="middle">Cripto</text>
+</svg>
