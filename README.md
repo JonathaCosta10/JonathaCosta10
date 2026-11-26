@@ -87,8 +87,8 @@ Dez anos de mercado financeiro, desenvolvimento e automações.</p>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg?v=7">
-  <img alt="Open source: ranaroussi/yfinance #3030, Store cached cookie as JSON instead of pickle (merged)." width="100%" src="assets/oss-light.svg?v=7">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg?v=8">
+  <img alt="Open source: ranaroussi/yfinance #3030, Store cached cookie as JSON instead of pickle (merged); awslabs/aidlc-workflows #4059 e #4063, nomes com acento e arquivos fora de UTF-8 tratados corretamente (merged em 26 nov 2026)." width="100%" src="assets/oss-light.svg?v=8">
 </picture>
 
-<p align="center"><a href="https://github.com/ranaroussi/yfinance/pull/3030">yfinance #3030</a></p>
+<p align="center"><a href="https://github.com/ranaroussi/yfinance/pull/3030">yfinance #3030</a> · aidlc-workflows <a href="https://github.com/awslabs/aidlc-workflows/pull/4059">#4059</a> <a href="https://github.com/awslabs/aidlc-workflows/pull/4063">#4063</a></p>
