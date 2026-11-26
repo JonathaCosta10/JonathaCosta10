@@ -33,8 +33,8 @@ Dez anos de mercado financeiro, desenvolvimento e automações.</p>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/evolution-dark.svg?v=7">
-  <img alt="Evolução mês a mês e acumulada: 17.786 contribuições no GitHub nos últimos 12 meses; 128 mil impressões acumuladas na busca, 35,2 mil só em outubro; 3.766 artigos gerados por IA desde fev. 2026, 14 por dia, 128 dias seguidos publicando." width="100%" src="assets/evolution-light.svg?v=7">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/evolution-dark.svg?v=8">
+  <img alt="Evolução mês a mês e acumulada: 22.174 contribuições no GitHub nos últimos 12 meses; 144 mil impressões acumuladas na busca, 37,8 mil em novembro até o dia 25; 3.995 artigos gerados por IA desde fev. 2026, 14 por dia, mais de 130 dias seguidos publicando." width="100%" src="assets/evolution-light.svg?v=8">
 </picture>
 
 <p align="center">
@@ -87,8 +87,8 @@ Dez anos de mercado financeiro, desenvolvimento e automações.</p>
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg?v=8">
-  <img alt="Open source: ranaroussi/yfinance #3030, Store cached cookie as JSON instead of pickle (merged); awslabs/aidlc-workflows #4059 e #4063, nomes com acento e arquivos fora de UTF-8 tratados corretamente (merged em 26 nov 2026)." width="100%" src="assets/oss-light.svg?v=8">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/oss-dark.svg?v=9">
+  <img alt="Open source: ranaroussi/yfinance #3030, Store cached cookie as JSON instead of pickle (merged em 15 nov 2026); awslabs/aidlc-workflows #4059 e #4063, nomes com acento e arquivos fora de UTF-8 tratados corretamente (merged em 26 nov 2026)." width="100%" src="assets/oss-light.svg?v=9">
 </picture>
 
 <p align="center"><a href="https://github.com/ranaroussi/yfinance/pull/3030">yfinance #3030</a> · aidlc-workflows <a href="https://github.com/awslabs/aidlc-workflows/pull/4059">#4059</a> <a href="https://github.com/awslabs/aidlc-workflows/pull/4063">#4063</a></p>
